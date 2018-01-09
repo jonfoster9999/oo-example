@@ -1,5 +1,3 @@
+#!/usr/local/bin/ruby -w
+
 require './config/environment'
-
-
-h = Hello.new("Jonny")
-p h
